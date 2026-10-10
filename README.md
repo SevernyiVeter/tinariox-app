@@ -1,6 +1,6 @@
 # Tinariox
 
-**Local-first AI companion for Android.** Talks with voice, remembers you, helps with tasks — powered by your own LLM server. No cloud account; cloud providers optional.
+**Local-first AI companion for Android.** Talks with voice, remembers you, helps with tasks — powered by the LLM **you** choose: local (Ollama, LM Studio) or any OpenAI-compatible cloud endpoint. No Tinariox account.
 
 > **Early beta.** Expect bugs. Some experimental features are still in development and are not in this build. The list of what works today is below.
 
@@ -22,7 +22,7 @@
 | **Memory** | Facts about you, conversation history, knowledge graph |
 | **Tasks** | Reminders and tasks in plain language, with calendar-style views |
 | **Documents** | Load PDFs and ask questions about your own files |
-| **Private by default** | Chat and memory stay on your device; the model runs on your machine or endpoint you choose |
+| **Your endpoint** | Local server or cloud OpenAI-compatible API — your choice; with a local model, chats stay on your LAN |
 
 More screens: [navigation](docs/screenshots/navigation.jpg), [tasks](docs/screenshots/tasks.jpg), [settings](docs/screenshots/settings.jpg).
 
