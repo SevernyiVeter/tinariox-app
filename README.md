@@ -2,7 +2,7 @@
 
 **Local-first AI companion for Android.** Talks with voice, remembers you, helps with tasks — powered by your own LLM server. No cloud account; cloud providers optional.
 
-> **Early beta.** Expect bugs. Several experimental modules are still in development and are not in this build (computer vision, smart home, multi-agent, ComfyUI, code execution, games, and other prototypes). The list of what works today is below.
+> **Early beta.** Expect bugs. Some experimental features are still in development and are not in this build. The list of what works today is below.
 
 [Русская версия](README.ru.md)
 

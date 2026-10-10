@@ -16,7 +16,7 @@ First public beta of the Tinariox Android app (APK-only distribution).
 
 ### Not in this build
 
-Several experimental modules from earlier prototypes are **not included** in the public beta and remain under active development (CV / vision, smart home, multi-agent, ComfyUI, code execution, games, and related prototypes). The beta focuses on a stable core: chat, voice, companion, memory, tasks, documents.
+Some experimental features remain under development and are **not included** in the public beta. This release focuses on a stable core: chat, voice, companion, memory, tasks, documents.
 
 ### Files
 
