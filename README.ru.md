@@ -34,18 +34,18 @@
 
 **Требования:** Android 8.0+ (API 26), **arm64**.
 
-**APK:** `app-release.apk` (~198 MB — со встроенными моделями речи).
+**APK:** `tinariox-v20.0.1-demo.apk` (~198 MB — со встроенными моделями речи).
 
-**SHA-256 (v20.0-demo):**
+**SHA-256 (v20.0.1-demo):**
 
 ```
-A485AAF32520F3598972D60A7870026DC212C6D63FB9D42CCFC4B42614D4363B
+A867EAAD8624D44E1F30747A9D3F43DDD975ACF8F0828BCEA2BA089A35E798A7
 ```
 
 Проверка после скачивания:
 
 ```powershell
-Get-FileHash .\app-release.apk -Algorithm SHA256
+Get-FileHash .\tinariox-v20.0.1-demo.apk -Algorithm SHA256
 ```
 
 ## Подключение к LLM-серверу

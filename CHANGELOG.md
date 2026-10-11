@@ -1,5 +1,16 @@
 # Tinariox changelog
 
+## v20.0.1-demo (beta) — 2026-10-11
+
+Bugfix release.
+
+- FLAG_SECURE: chat hidden from screenshots and Recents preview
+- PIN lockout counters persist across process death
+- Release builds no longer fall back to the debug signing key
+- versionCode 21
+
+SHA-256: `A867EAAD8624D44E1F30747A9D3F43DDD975ACF8F0828BCEA2BA089A35E798A7`
+
 ## v20.0-demo (beta) — 2026-10-10
 
 First public beta of the Tinariox Android app (APK-only distribution).
