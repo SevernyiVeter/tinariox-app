@@ -34,18 +34,18 @@ More screens: [navigation](docs/screenshots/navigation.jpg), [tasks](docs/screen
 
 **Requirements:** Android 8.0+ (API 26), **arm64**.
 
-**APK:** `tinariox-v20.0.1-demo.apk` (~198 MB — includes bundled on-device speech models).
+**APK:** `tinariox-v20.0.2-demo.apk` (~198 MB — includes bundled on-device speech models).
 
-**SHA-256 (v20.0.1-demo):**
+**SHA-256 (v20.0.2-demo):**
 
 ```
-A867EAAD8624D44E1F30747A9D3F43DDD975ACF8F0828BCEA2BA089A35E798A7
+7469B70236E99DEBFFED4FF255CB354FE23FF7784ABCF8093555F51C52023BA5
 ```
 
 Verify after download (example):
 
 ```powershell
-Get-FileHash .\tinariox-v20.0.1-demo.apk -Algorithm SHA256
+Get-FileHash .\tinariox-v20.0.2-demo.apk -Algorithm SHA256
 ```
 
 ## Connect your LLM server

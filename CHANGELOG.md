@@ -1,5 +1,12 @@
 # Tinariox changelog
 
+## v20.0.2-demo (beta) — 2026-10-11
+
+- Settings → Advanced: toggle “Hide chat from screenshots” (FLAG_SECURE), default ON
+- versionCode 22
+
+SHA-256: `7469B70236E99DEBFFED4FF255CB354FE23FF7784ABCF8093555F51C52023BA5`
+
 ## v20.0.1-demo (beta) — 2026-10-11
 
 Bugfix release.
