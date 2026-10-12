@@ -1,5 +1,19 @@
 # Tinariox changelog
 
+## v20.0.5-demo (beta) — 2026-10-13
+
+Download: [release v20.0.5](../../releases/tag/v20.0.5)
+
+### Highlights
+
+- **Memory Garden** — new “Memory” menu section: full list of remembered facts (search, categories, inline edit, “Forget”), dialogue fragments, knowledge-graph portal, and “Erase all” with confirmation
+- **RAG improvements** — document chunks actually injected into the answer context; new `query_documents` tool; better MiniLM embeddings (mean-pooling, bundled models) — more accurate document search, especially for Russian; web search no longer substitutes a random PDF on weak matches
+- **Chat fixes** — no more stalled empty replies after tool calls; honest “nothing found” messages for documents; one automatic retry on transient HTTP 5xx
+- **Diagnostics** — app logs mirrored to logcat in release builds (adb-friendly)
+- versionCode 25
+
+SHA-256: `C60419E959D0BDC7F2C692424FF2223133568F4424248A2190036EA28BE7C585`
+
 ## v20.0.2-demo (beta) — 2026-10-11
 
 - Settings → Advanced: toggle “Hide chat from screenshots” (FLAG_SECURE), default ON

@@ -6,6 +6,8 @@
 
 [Русская версия](README.ru.md)
 
+**🆕 Latest: [v20.0.5](../../releases/tag/v20.0.5)** — Memory Garden (view/edit/forget what the companion remembers), better document RAG, chat reliability fixes. See [CHANGELOG](CHANGELOG.md).
+
 <p align="center">
   <img src="docs/screenshots/main-chat.jpg" width="220" alt="Main chat">
   <img src="docs/screenshots/companion-setup.jpg" width="220" alt="Companion setup">
@@ -19,7 +21,7 @@
 | **Chat** | Streaming chat with LM Studio, Ollama, KoboldCpp, text-generation-webui, or any OpenAI-compatible server (Wi-Fi / LAN or cloud URL) |
 | **Voice** | On-device speech input and spoken replies (STT/TTS) |
 | **Companion** | Personalities, mood, first-meeting onboarding — not a faceless bot |
-| **Memory** | Facts about you, conversation history, knowledge graph |
+| **Memory** | Memory Garden: facts about you (search, edit, forget), dialogue fragments, knowledge graph |
 | **Tasks** | Reminders and tasks in plain language, with calendar-style views |
 | **Documents** | Load PDFs and ask questions about your own files |
 | **Your endpoint** | Local server or cloud OpenAI-compatible API — your choice; with a local model, chats stay on your LAN |
@@ -34,18 +36,18 @@ More screens: [navigation](docs/screenshots/navigation.jpg), [tasks](docs/screen
 
 **Requirements:** Android 8.0+ (API 26), **arm64**.
 
-**APK:** `tinariox-v20.0.2-demo.apk` (~198 MB — includes bundled on-device speech models).
+**APK:** `Tinariox-20.0.5-demo.apk` (~214 MB — includes bundled on-device speech models).
 
-**SHA-256 (v20.0.2-demo):**
+**SHA-256 (v20.0.5-demo):**
 
 ```
-7469B70236E99DEBFFED4FF255CB354FE23FF7784ABCF8093555F51C52023BA5
+C60419E959D0BDC7F2C692424FF2223133568F4424248A2190036EA28BE7C585
 ```
 
 Verify after download (example):
 
 ```powershell
-Get-FileHash .\tinariox-v20.0.2-demo.apk -Algorithm SHA256
+Get-FileHash .\Tinariox-20.0.5-demo.apk -Algorithm SHA256
 ```
 
 ## Connect your LLM server
