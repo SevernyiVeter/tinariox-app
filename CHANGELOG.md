@@ -1,5 +1,21 @@
 # Tinariox changelog
 
+## v20.0.6 (beta) — 2026-10-17
+
+Download: [release v20.0.6](../releases/tag/v20.0.6)
+
+### Highlights
+
+- **Theme Studio** — custom three-color palette, accent picker, fonts, chat layout, wallpapers, named presets with JSON export/import
+- **Russian voice** — Supertonic pronunciation frontend (dictionary stress + neural accentor), number/date/unit expansion, TTS Lab
+- **Web & tools** - `web_search` back as a first-class tool, broader RU/EN triggers, per-tool toggles, system-prompt guide for local models
+- **In-app updates** — daily GitHub release check, notification, in-app download + system install
+- **Security hardening** — internal tokens stored encrypted, safer local-server traffic, stronger PIN hashing, integrity checks for the voice model and updates
+- versionCode 26
+
+SHA-256: `1FDB906AA3fdc463C021897E79AF2D50F016D4852DC981C24791A3C51932431E`
+
+
 ## v20.0.5-demo (beta) — 2026-10-13
 
 Download: [release v20.0.5](../../releases/tag/v20.0.5)
