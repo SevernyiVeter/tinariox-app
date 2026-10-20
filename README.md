@@ -6,7 +6,7 @@
 
 [Русская версия](README.ru.md)
 
-**🆕 Latest: [v20.0.5](../../releases/tag/v20.0.5)** — Memory Garden (view/edit/forget what the companion remembers), better document RAG, chat reliability fixes. See [CHANGELOG](CHANGELOG.md).
+**🆕 Latest: [v20.0.6](../../releases/tag/v20.0.6)** — Memory Garden (view/edit/forget what the companion remembers), better document RAG, chat reliability fixes. See [CHANGELOG](CHANGELOG.md).
 
 <p align="center">
   <img src="docs/screenshots/main-chat.jpg" width="220" alt="Main chat">
