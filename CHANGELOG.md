@@ -1,5 +1,20 @@
 # Tinariox changelog
 
+## v20.0.7 (beta) — 2026-10-21
+
+Download: [release v20.0.7](../releases/tag/v20.0.7)
+
+### Highlights
+
+- **STT calibration** — Settings → Voice: test-recognition button (live text/result) and VAD threshold slider; music/video duck while you speak
+- **Word-number voice commands** — «громкость пятьдесят», timers with word numbers
+- **TTS auto language** — replies spoken in the language of the text (ru/en and other Supertonic/system locales); stress marks only on Russian
+- **Volume + media** — volume percent shown as 50/15 (33%), MODIFY_AUDIO_SETTINGS permission, media before OPEN_APP, clearer idle feedback
+- **Skill duration parsing** — «полтора часа», «1.5 hours», «через полчаса», fractional-hour crash fix, null skill fallthrough to the LLM
+- versionCode 27
+
+SHA-256: 30962c0412c3390670caf8a7b5cba2cda621a1d7106141ae75f8b650e13a52f
+
 ## v20.0.6 (beta) — 2026-10-17
 
 Download: [release v20.0.6](../releases/tag/v20.0.6)
