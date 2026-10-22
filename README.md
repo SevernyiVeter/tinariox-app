@@ -6,7 +6,7 @@
 
 [Русская версия](README.ru.md)
 
-**🆕 Latest: [v20.0.6](../../releases/tag/v20.0.6)** — Memory Garden (view/edit/forget what the companion remembers), better document RAG, chat reliability fixes. See [CHANGELOG](CHANGELOG.md).
+**🆕 Latest: [v20.0.7](../../releases/tag/v20.0.7)** — voice calibration (STT test + VAD), TTS auto language, volume/media/skill fixes. See [CHANGELOG](CHANGELOG.md).
 
 <p align="center">
   <img src="docs/screenshots/main-chat.jpg" width="220" alt="Main chat">
@@ -38,10 +38,10 @@ More screens: [navigation](docs/screenshots/navigation.jpg), [tasks](docs/screen
 
 **APK:** `Tinariox-20.0.5-demo.apk` (~214 MB — includes bundled on-device speech models).
 
-**SHA-256 (v20.0.5-demo):**
+**SHA-256 (v20.0.7):**
 
 ```
-C60419E959D0BDC7F2C692424FF2223133568F4424248A2190036EA28BE7C585
+f30962c0412c3390670caf8a7b5cba2cda621a1d7106141ae75f8b650e13a52f
 ```
 
 Verify after download (example):
