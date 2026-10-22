@@ -6,7 +6,7 @@
 
 [Русская версия](README.ru.md)
 
-**🆕 Latest: [v20.0.7](../../releases/tag/v20.0.7)** — voice calibration (STT test + VAD), TTS auto language, volume/media/skill fixes. See [CHANGELOG](CHANGELOG.md).
+**🆕 Latest: [v20.0.9](../../releases/tag/v20.0.9)** — voice calibration (STT test + VAD), TTS auto language, volume/media/skill fixes. See [CHANGELOG](CHANGELOG.md).
 
 <p align="center">
   <img src="docs/screenshots/main-chat.jpg" width="220" alt="Main chat">
