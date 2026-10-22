@@ -6,7 +6,7 @@
 
 [English](README.md)
 
-**🆕 Новое: [v20.0.5](../../releases/tag/v20.0.5)** — Сад памяти (просмотр, правка и «забыть»: всё, что помнит компаньон), улучшенный RAG по документам, фиксы чата. Подробнее — [CHANGELOG](CHANGELOG.md).
+**🆕 Новое: [v20.0.7](../../releases/tag/v20.0.7)** — калибровка распознавания (тест STT + VAD), авто-язык озвучки, фиксы громкости/медиа/скиллов. Подробнее — [CHANGELOG](CHANGELOG.md).
 
 <p align="center">
   <img src="docs/screenshots/main-chat.jpg" width="220" alt="Главный чат">
@@ -36,18 +36,18 @@
 
 **Требования:** Android 8.0+ (API 26), **arm64**.
 
-**APK:** `Tinariox-20.0.5-demo.apk` (~214 MB — со встроенными моделями речи).
+**APK:** `Tinariox-20.0.7.apk` (~214 MB — со встроенными моделями речи).
 
-**SHA-256 (v20.0.5-demo):**
+**SHA-256 (v20.0.7):**
 
 ```
-C60419E959D0BDC7F2C692424FF2223133568F4424248A2190036EA28BE7C585
+f30962c0412c3390670caf8a7b5cba2cda621a1d7106141ae75f8b650e13a52f
 ```
 
 Проверка после скачивания:
 
 ```powershell
-Get-FileHash .\Tinariox-20.0.5-demo.apk -Algorithm SHA256
+Get-FileHash .\Tinariox-20.0.7.apk -Algorithm SHA256
 ```
 
 ## Подключение к LLM-серверу
