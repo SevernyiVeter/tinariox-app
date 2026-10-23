@@ -2,7 +2,7 @@
 
 **Local-first AI companion for Android.** Talks with voice, remembers you, helps with tasks — powered by the LLM **you** choose: local (Ollama, LM Studio) or any OpenAI-compatible cloud endpoint. No Tinariox account.
 
-> **Early beta.** Expect bugs. Some experimental features are still in development and are not in this build. The list of what works today is below.
+> **Early beta.** Expect bugs. Some experimental features are still in development and are not in this build. The list of what works today is below. The app design is preliminary and will be redone over time.
 
 [Русская версия](README.ru.md)
 
